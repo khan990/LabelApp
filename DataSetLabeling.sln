@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetLabeling", "DataSetLabeling\DataSetLabeling.csproj", "{ECD77D95-D1AA-412C-B568-4C3BFF8531EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD77D95-D1AA-412C-B568-4C3BFF8531EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD77D95-D1AA-412C-B568-4C3BFF8531EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD77D95-D1AA-412C-B568-4C3BFF8531EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD77D95-D1AA-412C-B568-4C3BFF8531EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\bin\Debug\DataSetLabeling.exe.config
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\bin\Debug\DataSetLabeling.exe
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\bin\Debug\DataSetLabeling.pdb
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\obj\Debug\DataSetLabeling.csprojResolveAssemblyReference.cache
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\obj\Debug\DataSetLabeling.Properties.Resources.resources
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\obj\Debug\DataSetLabeling.csproj.GenerateResource.Cache
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\obj\Debug\DataSetLabeling.exe
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\obj\Debug\DataSetLabeling.pdb
+c:\users\jasim\documents\visual studio 2015\Projects\DataSetLabeling\DataSetLabeling\obj\Debug\DataSetLabeling.DataSetLabeler.resources
